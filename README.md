@@ -8,8 +8,6 @@ A Go Restful API for basic JWT authentication.
    <a href="https://goreportcard.com/report/github.com/amanasmuei/echo-jwt"><img src="https://goreportcard.com/badge/github.com/amanasmuei/echo-jwt"></a>
 </p>
 <br>
-
-
 ## Table of Contents
 
 -   [Installation](#installation)
