@@ -11,7 +11,6 @@ A Go Restful API for basic JWT authentication.
 ## Table of Contents
 
 -   [Installation](#installation)
--   [Examples](#examples)
 -   [License](#license)
 
 
